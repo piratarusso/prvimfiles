@@ -1,1 +1,1 @@
-# prvimviles
+# small collection of vim colors
